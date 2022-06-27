@@ -12,4 +12,6 @@ https://www.kaggle.com/rounakbanik/the-movies-dataset
 
 Using the CRISP-DM approach, a Random Forest Regressor model is developed using a dataset with 45,000 movies.
 
-In order to see the code for the project, open 
+In order to see the code for the project, open the movie_success_model.ipynb file.
+
+
