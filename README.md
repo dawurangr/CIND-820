@@ -7,12 +7,11 @@ Supervisor : Ceni Babaoglu PhD
 The dataset that was used for this project was retreived from:
 https://www.kaggle.com/rounakbanik/the-movies-dataset 
 
-<br />
-# Description of Project: 
+## Description-of-Project: 
 
 Using the CRISP-DM approach, a Random Forest Regressor model is developed using a dataset with 45,000 movies to predict what makes a movie successful.
 
-In order to see the code for the project, open the movie_success_model.ipynb file.
+This repository contauins the coding file for the project which is the movie_success_model.ipynb file and a readme file explaining the project.
 
 ## Project-Stages
 * Business Understanding: This business problem is a predictive analytics problem. 
